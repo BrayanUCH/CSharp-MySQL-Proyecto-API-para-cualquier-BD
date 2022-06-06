@@ -1,0 +1,34 @@
+C:\Users\braya\Escritorio\ApiMySQL\Bibliotecas\CapaConexion.dll
+C:\Users\braya\Escritorio\ApiMySQL\Bibliotecas\CapaConexion.pdb
+C:\Users\braya\Escritorio\ApiMySQL\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\braya\Escritorio\ApiMySQL\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\ApiMySQL\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\braya\Escritorio\ApiMySQL\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Brandon\Desktop\ApiMySQL\Bibliotecas\CapaConexion.dll
+C:\Users\Brandon\Desktop\ApiMySQL\Bibliotecas\CapaConexion.pdb
+C:\Users\Brandon\Desktop\ApiMySQL\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\ApiMySQL\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\ApiMySQL\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Brandon\Desktop\ApiMySQL\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\braya\Escritorio\ApiMySQL\CapaConexion\obj\Debug\CapaConexion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto final\Bibliotecas\CapaConexion.dll
+C:\Users\braya\Escritorio\Proyecto final\Bibliotecas\CapaConexion.pdb
+C:\Users\braya\Escritorio\Proyecto final\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto final\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto final\CapaConexion\obj\Debug\CapaConexion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto final\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\braya\Escritorio\Proyecto final\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Brandon\Desktop\Proyecto final\Bibliotecas\CapaConexion.dll
+C:\Users\Brandon\Desktop\Proyecto final\Bibliotecas\CapaConexion.pdb
+C:\Users\Brandon\Desktop\Proyecto final\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto final\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto final\CapaConexion\obj\Debug\CapaConexion.csproj.CopyComplete
+C:\Users\Brandon\Desktop\Proyecto final\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Brandon\Desktop\Proyecto final\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\Bibliotecas\CapaConexion.dll
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\Bibliotecas\CapaConexion.pdb
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaConexion\obj\Debug\CapaConexion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaConexion\obj\Debug\CapaConexion.pdb

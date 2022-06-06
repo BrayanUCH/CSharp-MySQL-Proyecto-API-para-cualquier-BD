@@ -1,0 +1,44 @@
+C:\Users\braya\Escritorio\ApiMySQL\CapaIntegracion\bin\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\ApiMySQL\CapaIntegracion\bin\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\ApiMySQL\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\ApiMySQL\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\ApiMySQL\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\ApiMySQL\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\ApiMySQL\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\ApiMySQL\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\braya\Escritorio\ApiMySQL\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Brandon\Desktop\ApiMySQL\Bibliotecas\CapaIntegracion.dll
+C:\Users\Brandon\Desktop\ApiMySQL\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Brandon\Desktop\ApiMySQL\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\ApiMySQL\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\ApiMySQL\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Brandon\Desktop\ApiMySQL\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Brandon\Desktop\ApiMySQL\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto final\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto final\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\Brandon\Desktop\Proyecto final\Bibliotecas\CapaIntegracion.dll
+C:\Users\Brandon\Desktop\Proyecto final\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Brandon\Desktop\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Brandon\Desktop\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Brandon\Desktop\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaIntegracion\obj\Debug\CapaIntegracion.pdb

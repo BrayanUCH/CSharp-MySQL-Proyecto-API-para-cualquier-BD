@@ -1,0 +1,42 @@
+C:\Users\braya\Escritorio\ApiMySQL\Bibliotecas\CapaLogica.dll
+C:\Users\braya\Escritorio\ApiMySQL\Bibliotecas\CapaLogica.pdb
+C:\Users\braya\Escritorio\ApiMySQL\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\braya\Escritorio\ApiMySQL\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\ApiMySQL\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\braya\Escritorio\ApiMySQL\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\braya\Escritorio\ApiMySQL\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Brandon\Desktop\ApiMySQL\Bibliotecas\CapaLogica.dll
+C:\Users\Brandon\Desktop\ApiMySQL\Bibliotecas\CapaLogica.pdb
+C:\Users\Brandon\Desktop\ApiMySQL\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\ApiMySQL\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\ApiMySQL\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Brandon\Desktop\ApiMySQL\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Brandon\Desktop\ApiMySQL\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\braya\Escritorio\Proyecto final\Bibliotecas\CapaLogica.dll
+C:\Users\braya\Escritorio\Proyecto final\Bibliotecas\CapaLogica.pdb
+C:\Users\braya\Escritorio\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto final\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\braya\Escritorio\Proyecto final\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Brandon\Desktop\Proyecto final\Bibliotecas\CapaLogica.dll
+C:\Users\Brandon\Desktop\Proyecto final\Bibliotecas\CapaLogica.pdb
+C:\Users\Brandon\Desktop\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Brandon\Desktop\Proyecto final\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Brandon\Desktop\Proyecto final\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\Bibliotecas\CapaLogica.dll
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\Bibliotecas\CapaLogica.pdb
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\braya\Escritorio\UNA_BD-Proyecto1-BrandonU-BrayanU\Proyecto final de BD\Proyecto final\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\Bibliotecas\CapaLogica.dll
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\Bibliotecas\CapaLogica.pdb
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\braya\Escritorio\Proyecto final de BD\Proyecto final\CapaLogica\obj\Debug\CapaLogica.pdb
